@@ -4,8 +4,8 @@ I'm Megha Magadumakar, a passionate software engineer based in Pune, India. Curr
 My journey in the tech world began during my college days, where I fell in love with building web applications.
 
 #### 💻 Technologies I Love:
-- Java
 - Python
+- DevOps - GitHub Action, Jenkins, UCD
 - Web Development
 - Mainframe Technologies
 
