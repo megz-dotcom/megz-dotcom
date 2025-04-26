@@ -24,15 +24,12 @@ I thrive on continuous learning and enjoy the challenges that coding brings. The
   #COVID19 #informative #web #simpleproject #HTML #CSS
 
 ### 2. Library Management System
--
   #LMS #pythonproject #python
   
 ### 3. Accounting System
--
 #java #accountingsystem #javaservelet
 
 ### 4. CI/CD pipeline implementation
--
 #CI/CD #githubaction #jenkins
 
 #### 🤝 Let's Connect:
