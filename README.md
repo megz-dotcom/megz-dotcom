@@ -1,18 +1,18 @@
 ### Hi there! 👋
 
 I'm Megha Magadumakar, a passionate software engineer based in Pune, India. Currently, I'm honing my skills as a Software Engineer at Principal Global Services,Pune.
-My journey in the tech world began during my college days, where I fell in love with building web applications, and broadening my technical skill set.
+My journey in the tech world began during my college days, where I fell in love with building web applications, problem solving, and broadening my technical skill set.
 
 #### 💻 Technologies I Love:
 - Python
-- DevOps - GitHub Action, Digital AI release, Jenkins, UCD
+- DevOps - Git, Digital AI release, Jenkins, UCD
 - Datastucture and Algorithm
 - Web Development
 - Mainframe Technologies
 
 #### 🚀 What I'm Currently Up To:
 - Building expertise in Mainframe products at Principal Global Services.
-- Supproting Developers and 
+- Supproting Developers and builing automations and 
 - Exploring new ways to apply my technical skills in real-world scenarios.
 
 #### 🌱 What Drives Me:
