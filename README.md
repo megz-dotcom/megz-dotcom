@@ -29,5 +29,4 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 #### 📜 Credentials 
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/490a81e3-1bfb-4bce-9481-cafac3ff3aed" />
-
-
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/8070b5a4-ba4a-431d-b8e5-6d51b80ea5c5" />
